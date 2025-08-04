@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexis Ramírez</h1>
+<h1 align="center">Hi 👋, I'm Alexis Ramirez</h1>
 <h3 align="center">Mid-Level Full Stack Developer | Passionate about clean code and real-world solutions</h3>
 
 ---
